@@ -10,4 +10,6 @@
 
 // update data user by id
 
+// upload user image by id
+
 // delete data user by id
